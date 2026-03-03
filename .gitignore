@@ -1,0 +1,16 @@
+/.gradle/
+/build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build outputs
+bin/
+target/
+build/
+out/
+
+# Logs
+*.log
